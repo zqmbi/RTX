@@ -1,4 +1,5 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/Bkf0BJb3'))()
+
 local a = game.Lighting
 
 a.Ambient = Color3.fromRGB(33, 33, 33)
